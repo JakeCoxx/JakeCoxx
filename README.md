@@ -1,5 +1,11 @@
 ## Hi there 👋 Im Jake, I currently go to All Saints catholic high school. I am in grade 12, im going into sport studies at Bishops university.
 
+- 🌱 I’m currently learning Rasperi Pi
+- 💬 Ask me about Lacrosse
+- 📫 How to reach me: dont
+- 😄 Pronouns: he/him/himmothy
+- ⚡ Fun fact: i know no fun facts
+
 <!--
 **JakeCoxx/JakeCoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
