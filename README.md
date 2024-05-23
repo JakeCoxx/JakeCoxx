@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Im Jake, I currently go to All Saints catholic high school. I am in grade 12, im going into sport studies at Bishops university.
 
 <!--
 **JakeCoxx/JakeCoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
